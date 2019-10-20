@@ -17,8 +17,9 @@ green <- 76
 
 blue <- 1
 
-pink <- 8
+pink <- 10
 
+yellow <-4
 ```
 
 After making minimal changes, SAVE this .Rmd (default will be to the project folder, but check to make sure).
